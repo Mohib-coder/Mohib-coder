@@ -37,13 +37,3 @@ I am a dedicated student with a deep passion for digital defense, sparked by a p
 - <b>Operational Safety (RWC):</b> Independent problem-solving and strict adherence to security/safety protocols in a production environment.
 - <b>Bilingual Communication:</b> Fluent in English, Italian, Urdu/Hindi and Punjabi; skilled in technical terminology and professional outreach.
 
-<h2>🤳 Connect with me:</h2>
-+44 0780524366
-Mohibali2008@outlook.com
-[<img align="left" alt="Syed Mohib Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Syed Mohib Ali | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-<br />
-
-[linkedin]: INSERT_LINKEDIN_URL_HERE
-[github]: INSERT_GITHUB_URL_HERE
